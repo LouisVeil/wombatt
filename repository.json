@@ -1,5 +1,8 @@
-name: Wombatt Add-ons
-url: 'https://github.com/gonzalop/wombatt'
-maintainer: Gonzalo
-addons:
-  - homeassistant-addon
+{
+  "name": "Wombatt Add-ons",
+  "url": "https://github.com/LouisVeil/wombatt",
+  "maintainer": "Louis",
+  "addons": [
+    "homeassistant-addon"
+  ]
+}
